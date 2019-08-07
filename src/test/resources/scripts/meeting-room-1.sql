@@ -1,0 +1,1 @@
+ insert into meeting_room (name, id) values ('meeting-room-1', 171);
